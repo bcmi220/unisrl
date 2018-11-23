@@ -19,7 +19,7 @@ Part of the codebase is extended from [lsgn](https://github.com/luheng/lsgn).
 * Build kernels: `./scripts/build_custom_kernels.sh` (Please make adjustments to the script according to your OS/gcc version)
 
 ## Setting up for ELMo (in progress)
-* Some of our models are trained with the [ELMo embeddings](https://allennlp.org/elmo). We use the ELMo model loaded by [tensorflow_hub](https://www.tensorflow.org/hub/modules/google/elmo/2). You can download the file from [here]() and decompress it into the directory: `/elmo`.
+* Some of our models are trained with the [ELMo embeddings](https://allennlp.org/elmo). We use the ELMo model loaded by [tensorflow_hub](https://www.tensorflow.org/hub/modules/google/elmo/2). You can download the file from [here](https://drive.google.com/open?id=1WrvP-z36PJBl940-P_3dI6SlIfnm9Pb9) and decompress it into the directory: `/elmo`.
 
 ## CoNLL Data
 For replicating results on CoNLL-2005, CoNLL-2009 and CoNLL-2012 datasets, please follow the steps below.

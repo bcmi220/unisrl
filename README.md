@@ -1,9 +1,8 @@
 # Uniform Semantic Role Labeling (Under Construction)
 
 This repository contains code and models for replicating results from the following publication:
-* [Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling](https://arxiv.org/abs/1805.04787)
-* [Luheng He](https://homes.cs.washington.edu/~luheng), [Kenton Lee](http://kentonl.com/), [Omer Levy](https://levyomer.wordpress.com/) and [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)
-* In AAAI 2019
+* [Dependency or Span, End-to-End Uniform Semantic Role Labeling]()
+* To appear in AAAI 2019
 
 Part of the codebase is extended from [lsgn](https://github.com/luheng/lsgn). 
 
